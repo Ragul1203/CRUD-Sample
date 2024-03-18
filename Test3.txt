@@ -1,3 +1,0 @@
-Testing by creating a new txt file named Test3
-
-To modify and check that my changes have been modified in the git . . .
